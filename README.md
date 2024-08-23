@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/steffenhaug/chanterelle-zed/main/assets/chanterelle.png" width="128" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/chanterelle.png" width="128" alt="Logo"/><br/>
 	Chanterelle for <a href="https://github.com/zed-industries/zed">Zed</a>
 </h3>
 
