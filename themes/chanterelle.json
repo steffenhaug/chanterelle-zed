@@ -57,14 +57,14 @@
         "editor.gutter.background": null,
         "editor.subheader.background": "#222",
         "editor.active_line.background": "#181818cc",
-        "editor.highlighted_line.background": "#f0f",
+        "editor.highlighted_line.background": "#181818",
         "editor.line_number": "#333",
         "editor.active_line_number": "#F4D371",
         "editor.invisible": "#333",
         "editor.wrap_guide": "#070707",
-        "editor.active_wrap_guide": "#f0f",
+        "editor.active_wrap_guide": "#eeeeee1a",
         "editor.document_highlight.read_background": "#333",
-        "editor.document_highlight.write_background": "#f0f",
+        "editor.document_highlight.write_background": "#333cc",
         // TODO: Terminal ANSI colors
         "conflict": "#F4D371",
         "conflict.background": "#8E6D0B",
@@ -140,7 +140,7 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#f0f",
+            "color": "#95BC82",
             "font_style": null,
             "font_weight": null
           },
@@ -181,7 +181,7 @@
           },
 
           "label": {
-            "color": "#f0f",
+            "color": "#B5CDD9",
             "font_style": null,
             "font_weight": null
           },
