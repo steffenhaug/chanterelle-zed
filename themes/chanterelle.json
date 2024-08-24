@@ -43,7 +43,7 @@
         "icon.accent": "#7FAE88",
         "status_bar.background": "#222",
         "title_bar.background": "#000",
-        "title_bar.inactive_background": "#111",
+        "title_bar.inactive_background": "#000",
         "toolbar.background": "#222",
         "tab_bar.background": "#181818",
         "tab.inactive_background": "#222",
@@ -101,7 +101,7 @@
         "renamed.border": "#222",
         "success": "#729363",
         "success.background": "#2F3D29",
-        "success.border":  "#465C3D",
+        "success.border": "#465C3D",
         "unreachable": "#ccc",
         "unreachable.background": "#181818",
         "unreachable.border": "#222",
@@ -221,7 +221,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#f0f",
+            "color": "#94BA82",
             "font_style": null,
             "font_weight": null
           },
@@ -246,7 +246,7 @@
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#f0f",
+            "color": "#94BA82",
             "font_style": null,
             "font_weight": null
           },
