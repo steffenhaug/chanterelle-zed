@@ -13,5 +13,10 @@ Originally designed for data visualization, the highlight colors are uniformly s
 <img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient.svg" width="512" alt="Discrete Gradient"/><br/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient_isoluminant.svg" width="512" alt="Gradient"/><br/>
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient_isoluminant.svg" width="512" alt="Discrete Gradient"/><br/>
+</p>
+
 ## Development
 The colors are generated with a [Julia Notebook](https://github.com/steffenhaug/Chanterelle).
