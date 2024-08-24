@@ -5,6 +5,10 @@
 
 Chanterelle is a colorscheme inspired by the nordic forest.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/preview.png" width="512" alt="Zed Colorscheme Preview"/>
+</p>
+
 ## Palette
 Originally designed for data visualization, the highlight colors are
 primarily uniformly sampled from a perceptually uniform gradient from a dark pine green,
@@ -14,13 +18,13 @@ Picking colors from a restricted range of hues gives your editor
 a cohesive look and feel.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient.svg" width="512" alt="Gradient"/><br/>
-<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient.svg" width="512" alt="Discrete Gradient"/><br/>
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient.svg" width="512" alt="Gradient"/>
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient.svg" width="512" alt="Discrete Gradient"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient_isoluminant.svg" width="512" alt="Gradient"/><br/>
-<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient_isoluminant.svg" width="512" alt="Discrete Gradient"/><br/>
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient_isoluminant.svg" width="512" alt="Gradient"/>
+<img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/discretegradient_isoluminant.svg" width="512" alt="Discrete Gradient"/>
 </p>
 
 ## Development
