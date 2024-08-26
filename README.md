@@ -14,8 +14,6 @@ Originally designed for data visualization, the highlight colors are
 primarily uniformly sampled from a perceptually uniform gradient from a dark pine green,
 to a lush mossy green,
 to a pale bright chanterelle yellow.
-Picking colors from a restricted range of hues gives your editor
-a cohesive look and feel.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/steffenhaug/Chanterelle/main/assets/gradient.svg" width="512" alt="Gradient"/>
@@ -29,7 +27,9 @@ a cohesive look and feel.
 
 ## Development
 The colors are generated with a [Julia Notebook](https://github.com/steffenhaug/Chanterelle).
+
 It is still early in development, and is bound to change a little bit.
-In particular, the theme currently does not define ANSI terminal colors.
+In particular, the theme currently does not define ANSI terminal colors,
+because I have not been able to pick hues that I both like, and which fit the theme!
 In the meantime, I suggest you steal the ones from another theme you like
 as theme overrides.
