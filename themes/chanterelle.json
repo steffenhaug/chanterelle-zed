@@ -106,7 +106,7 @@
             "font_weight": null
           },
           "boolean": {
-            "color": "#C37F64",
+            "color": "#A4684D",
             "font_style": null,
             "font_weight": null
           },
@@ -277,7 +277,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#A4684D",
+            "color": "#FFCC76",
             "font_style": null,
             "font_weight": 700
           },
