@@ -99,6 +99,48 @@
         "warning": "#FFCC76",
         "warning.background": "#D3A350",
         "warning.border": "#C59643",
+        "players": [
+          {
+            "cursor": "#eee",
+            "background": "#eee",
+            "selection": "#eeeeee3d"
+          },
+          {
+            "cursor": "#7c6f64",
+            "background": "#7c6f64",
+            "selection": "#7c6f643d"
+          },
+          {
+            "cursor": "#af3a04",
+            "background": "#af3a04",
+            "selection": "#af3a043d"
+          },
+          {
+            "cursor": "#8f3f70",
+            "background": "#8f3f70",
+            "selection": "#8f3f703d"
+          },
+          {
+            "cursor": "#437b59",
+            "background": "#437b59",
+            "selection": "#437b593d"
+          },
+          {
+            "cursor": "#9d0308",
+            "background": "#9d0308",
+            "selection": "#9d03083d"
+          },
+          {
+            "cursor": "#b57615",
+            "background": "#b57615",
+            "selection": "#b576153d"
+          },
+          {
+            "cursor": "#797410",
+            "background": "#797410",
+            "selection": "#7974103d"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#FFCC76",
