@@ -212,7 +212,16 @@
             "font_style": "bold",
             "font_weight": null
           },
-
+          "keyword.type": {
+            "color": "#4E8168",
+            "font_style": "bold",
+            "font_weight": null
+          },
+          "variable.builtin": {
+            "color": "#FFCC76",
+            "font_style": "bold",
+            "font_weight": null
+          },
           "label": {
             "color": "#B5CDD9",
             "font_style": null,
