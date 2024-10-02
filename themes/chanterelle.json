@@ -167,6 +167,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "constant.builtin": {
+            "color": "#A4684D",
+            "font_style": null,
+            "font_weight": null
+          },
           "constructor": {
             "color": "#4E8168",
             "font_style": null,
@@ -217,8 +222,13 @@
             "font_style": "bold",
             "font_weight": null
           },
+	  "keyword.operator": {
+            "color": "#4E8168",
+            "font_style": "bold",
+            "font_weight": null
+          },
           "variable.builtin": {
-            "color": "#FFCC76",
+            "color": "#4E8168",
             "font_style": "bold",
             "font_weight": null
           },
